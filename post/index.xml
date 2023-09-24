@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on David Molefe</title>
+    <link>https://David-230.github.io/david_portfolio/post/</link>
+    <description>Recent content in Projects on David Molefe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://David-230.github.io/david_portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 4: Movie Recommender System</title>
+      <link>https://David-230.github.io/david_portfolio/post/chapter-4/</link>
+      <pubDate>Sat, 01 Jul 2023 11:14:48 -0400</pubDate>
+      
+      <guid>https://David-230.github.io/david_portfolio/post/chapter-4/</guid>
+      <description>This has to be one of the intense project I have worked on in my early days of Data Science, I was in a team that was tasked to develop a movie recommender system using the unsupervised technique called recommender systems. We built this recommender system and deployed it using streamlit and made it accessible by internet using AWS.
+We used movie lens dataset to complete this project, we downloaded the multiple files for the movie lens dataset and used them to accomplish our project.</description>
+    </item>
+    
+    <item>
+      <title>Project 3: Language Identification Program</title>
+      <link>https://David-230.github.io/david_portfolio/post/chapter-3/</link>
+      <pubDate>Sat, 01 Jul 2023 11:13:32 -0400</pubDate>
+      
+      <guid>https://David-230.github.io/david_portfolio/post/chapter-3/</guid>
+      <description>Also enjoyed doing this project it&amp;rsquo;s a very simple project, I had dataset from NCHLT Text Corpora collected by the South African Department of Arts and Culture &amp;amp; Centre for Text Technology that contained 11 official South African languages. I had to build a program that will classify a sentence as which language does it belong to.
+As with all project we started by cleaning the data we will be using to train our model.</description>
+    </item>
+    
+    <item>
+      <title>Project 2: Classification of Tweets</title>
+      <link>https://David-230.github.io/david_portfolio/post/chapter-2/</link>
+      <pubDate>Fri, 30 Jun 2023 11:00:59 -0400</pubDate>
+      
+      <guid>https://David-230.github.io/david_portfolio/post/chapter-2/</guid>
+      <description>In this project we were given a dataset that consisted of Tweets, we had to work on a classification model to classify whether a Tweet is from a user who believes in man-made climate change or not, this project is intense on the Natural Language Processing techniques. It was a great project to work on and it made me excited on the unending opportunites that Machine Learning present.
+Began with Data Cleaning to remove all duplicates, punctuations, url links and special symbols that were not necessary for our model.</description>
+    </item>
+    
+    <item>
+      <title>Project 1: Predicting Energy Shortfall</title>
+      <link>https://David-230.github.io/david_portfolio/post/chapter-1/</link>
+      <pubDate>Thu, 25 May 2023 10:58:08 -0400</pubDate>
+      
+      <guid>https://David-230.github.io/david_portfolio/post/chapter-1/</guid>
+      <description>As the world grapples with the crisis of climate change many countries are looking into moving more towards clean energy, I was working in a team that was given a project to work on predicting a load shortfall between electricity produced by fossil fuels and renewables.
+We were given a dataset with historical weather conditions in different cities in Spain as features and the Load Shortfall.
+We began with cleaning our dataset to ensure that our analysis and model will be accurate.</description>
+    </item>
+    
+  </channel>
+</rss>

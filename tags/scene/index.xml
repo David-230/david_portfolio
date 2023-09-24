@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>scene on David Molefe</title>
+    <link>https://David-230.github.io/david_portfolio/tags/scene/</link>
+    <description>Recent content in scene on David Molefe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 25 May 2023 10:58:08 -0400</lastBuildDate><atom:link href="https://David-230.github.io/david_portfolio/tags/scene/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 1: Predicting Energy Shortfall</title>
+      <link>https://David-230.github.io/david_portfolio/post/chapter-1/</link>
+      <pubDate>Thu, 25 May 2023 10:58:08 -0400</pubDate>
+      
+      <guid>https://David-230.github.io/david_portfolio/post/chapter-1/</guid>
+      <description>As the world grapples with the crisis of climate change many countries are looking into moving more towards clean energy, I was working in a team that was given a project to work on predicting a load shortfall between electricity produced by fossil fuels and renewables.
+We were given a dataset with historical weather conditions in different cities in Spain as features and the Load Shortfall.
+We began with cleaning our dataset to ensure that our analysis and model will be accurate.</description>
+    </item>
+    
+  </channel>
+</rss>
