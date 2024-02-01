@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://David-230.github.io/david_portfolio/</loc>
-    <lastmod>2023-07-01T11:14:48-04:00</lastmod>
+    <lastmod>2024-01-31T11:14:48-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -16,6 +16,11 @@
                 hreflang="en"
                 href="https://David-230.github.io/david_portfolio/"
                 />
+  </url><url>
+    <loc>https://David-230.github.io/david_portfolio/post/chapter-5/</loc>
+    <lastmod>2024-01-31T11:14:48-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://David-230.github.io/david_portfolio/post/chapter-4/</loc>
     <lastmod>2023-07-01T11:14:48-04:00</lastmod>

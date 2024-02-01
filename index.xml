@@ -6,7 +6,17 @@
     <description>Recent content in Data Science Portfolio on David Molefe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 01 Jul 2023 11:14:48 -0400</lastBuildDate><atom:link href="https://David-230.github.io/david_portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 31 Jan 2024 11:14:48 -0400</lastBuildDate><atom:link href="https://David-230.github.io/david_portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 5: Plane booking predictive model</title>
+      <link>https://David-230.github.io/david_portfolio/post/chapter-5/</link>
+      <pubDate>Wed, 31 Jan 2024 11:14:48 -0400</pubDate>
+      
+      <guid>https://David-230.github.io/david_portfolio/post/chapter-5/</guid>
+      <description>Overview:
+In this project, I aimed at developing a machine learning project which would help airlines determine whether a customer would complete a booking or not. Airlines have realized that the buying cycle has changed in today&amp;rsquo;s time, if you are hoping that customers would buy your tickets as they come to the airport you&amp;rsquo;ve already lost so airlines want to take a more proactive approach to getting more customers booking with them.</description>
+    </item>
+    
     <item>
       <title>Project 4: Movie Recommender System</title>
       <link>https://David-230.github.io/david_portfolio/post/chapter-4/</link>
@@ -23,7 +33,7 @@ We used movie lens dataset to complete this project, we downloaded the multiple 
       <pubDate>Sat, 01 Jul 2023 11:13:32 -0400</pubDate>
       
       <guid>https://David-230.github.io/david_portfolio/post/chapter-3/</guid>
-      <description>Also enjoyed doing this project it&amp;rsquo;s a very simple project, I had dataset from NCHLT Text Corpora collected by the South African Department of Arts and Culture &amp;amp; Centre for Text Technology that contained 11 official South African languages. I had to build a program that will classify a sentence as which language does it belong to.
+      <description>Also enjoyed doing this project it&amp;rsquo;s a very simple project, I had dataset from NCHLT Text Corpora collected by the South African Department of Arts and Culture &amp;amp; Centre for Text Technology that contained 11 official South African languages. I had to build a program that will classify a sentence as to which language does it belong to.
 As with all project we started by cleaning the data we will be using to train our model.</description>
     </item>
     
@@ -54,7 +64,8 @@ We began with cleaning our dataset to ensure that our analysis and model will be
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://David-230.github.io/david_portfolio/about/</guid>
-      <description>I have graduated from the University of the Witwatersrand with Bachelor of Commerce majoring in Accounting. I have always been fascinated by data and statistics, after learning about a field called Data Science where I can spend my time unlocking valuable insights from data and use the data to develop computational models that can make predictions and classify information, I knew from that day on that this is a job I wanted to do.</description>
+      <description>I have graduated from the University of the Witwatersrand with Bachelor of Commerce and with a Data Science qualification from Explore Data Science Academy, I have a passion for solving intricate problems through the application of scalable machine learning models.
+With a strong foundation in Python, SQL, Power BI, Statistics and a developing foundation in C++, I have the technical prowess to transform data into valuable insights. My academic background in Accounting, Finance, and Economics has honed my analytical skills and provided me with a unique perspective in the field of data science.</description>
     </item>
     
     <item>

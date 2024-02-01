@@ -8,6 +8,16 @@
     <language>en</language>
     <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://David-230.github.io/david_portfolio/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Project 5: Plane booking predictive model</title>
+      <link>https://David-230.github.io/david_portfolio/post/chapter-5/</link>
+      <pubDate>Wed, 31 Jan 2024 11:14:48 -0400</pubDate>
+      
+      <guid>https://David-230.github.io/david_portfolio/post/chapter-5/</guid>
+      <description>Overview:
+In this project, I aimed at developing a machine learning project which would help airlines determine whether a customer would complete a booking or not. Airlines have realized that the buying cycle has changed in today&amp;rsquo;s time, if you are hoping that customers would buy your tickets as they come to the airport you&amp;rsquo;ve already lost so airlines want to take a more proactive approach to getting more customers booking with them.</description>
+    </item>
+    
+    <item>
       <title>Project 4: Movie Recommender System</title>
       <link>https://David-230.github.io/david_portfolio/post/chapter-4/</link>
       <pubDate>Sat, 01 Jul 2023 11:14:48 -0400</pubDate>
@@ -23,7 +33,7 @@ We used movie lens dataset to complete this project, we downloaded the multiple 
       <pubDate>Sat, 01 Jul 2023 11:13:32 -0400</pubDate>
       
       <guid>https://David-230.github.io/david_portfolio/post/chapter-3/</guid>
-      <description>Also enjoyed doing this project it&amp;rsquo;s a very simple project, I had dataset from NCHLT Text Corpora collected by the South African Department of Arts and Culture &amp;amp; Centre for Text Technology that contained 11 official South African languages. I had to build a program that will classify a sentence as which language does it belong to.
+      <description>Also enjoyed doing this project it&amp;rsquo;s a very simple project, I had dataset from NCHLT Text Corpora collected by the South African Department of Arts and Culture &amp;amp; Centre for Text Technology that contained 11 official South African languages. I had to build a program that will classify a sentence as to which language does it belong to.
 As with all project we started by cleaning the data we will be using to train our model.</description>
     </item>
     
